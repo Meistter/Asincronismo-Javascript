@@ -1,0 +1,23 @@
+{
+  "name": "asincronismo-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "callback.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Meistter/Asincronismo-Javascript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Meistter/Asincronismo-Javascript/issues"
+  },
+  "homepage": "https://github.com/Meistter/Asincronismo-Javascript#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
