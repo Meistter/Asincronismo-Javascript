@@ -4,7 +4,7 @@
   "description": "",
   "main": "callback.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "callback": "node challenge.js"
   },
   "repository": {
     "type": "git",
