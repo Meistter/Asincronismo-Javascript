@@ -13,11 +13,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/Meistter/Asincronismo-Javascript/issues"
   },
   "homepage": "https://github.com/Meistter/Asincronismo-Javascript#readme",
   "dependencies": {
+    "node-fetch": "^3.3.0",
     "xmlhttprequest": "^1.8.0"
   }
 }
